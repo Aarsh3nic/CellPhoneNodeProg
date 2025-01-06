@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CellList"},{"p":"<Unnamed>","l":"CellListUtilization"},{"p":"<Unnamed>","l":"CellPhone"}];updateSearchResults();
