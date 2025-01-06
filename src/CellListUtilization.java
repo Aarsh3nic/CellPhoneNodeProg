@@ -1,8 +1,4 @@
-// -----------------------------------------------------
-// Assignment 3
-// Question: 1 , Part 2 and 4 (Driver Class)
-// Written by: Aarsh Patel (40295201)
-// -----------------------------------------------------
+
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

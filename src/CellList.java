@@ -1,8 +1,3 @@
-// -----------------------------------------------------
-// Assignment 3
-// Question: 1 , Part 3
-// Written by: Aarsh Patel (40295201)
-// -----------------------------------------------------
 
 
 import java.util.NoSuchElementException;
